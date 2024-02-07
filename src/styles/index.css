@@ -10,3 +10,12 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.jumbotron {
+    background-color: #EEEEEE;
+    padding-bottom: 3rem;
+}
+
+.jumboTitle {
+    font-size: 3rem;
+}
