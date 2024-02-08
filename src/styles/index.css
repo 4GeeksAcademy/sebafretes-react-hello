@@ -19,3 +19,34 @@
 .jumboTitle {
     font-size: 3rem;
 }
+
+.footer {
+    background-color: #212F3C;
+    text-align: center;
+    color: #e5e0e0;
+    padding-top: 1rem;
+    padding-bottom: .5rem;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-footer {
+    display: flex;
+    justify-content: center;
+}
+
+.card-text {
+    display: flex;
+    justify-content: center;
+}
+
+.cards-general {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.jumbotron-contenido {
+    margin-left: 2rem;
+}
